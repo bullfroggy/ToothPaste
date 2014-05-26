@@ -53,5 +53,6 @@ int main(){
 	string deviceToConnect;
 	getline(cin, deviceToConnect);
 	cout << deviceToConnect + "\n";
-
+	SOCKET s = socket (AF_BTH, SOCK_STREAM, BTHPROTO_RFCOMM);
+	
 }
