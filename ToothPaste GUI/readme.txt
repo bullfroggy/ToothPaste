@@ -1,0 +1,1 @@
+This is the result of trying to create a user interface for all of the functionality contained within the console version and then some. There are still many bugs and for some reason it was very difficult to fit combine the Wi-fi and bluetooth functionality into 1 application so we separated them into 2 different programs.

@@ -1,0 +1,1 @@
+For senior project, before we ever started thinking about a graphical user interface, we made sure the functionality of our Bluetooth File Transfer program was solid. This is the result of said endeavor.
